@@ -1,0 +1,1 @@
+const requestURL = "https://api.hgbrasil.com/finance?format=json&key=bb1542a6";
